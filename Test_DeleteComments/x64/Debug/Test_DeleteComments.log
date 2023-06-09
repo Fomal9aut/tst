@@ -1,0 +1,4 @@
+﻿  Test_DeleteComments.cpp
+     Creating library C:\Users\EGLOBAL\Desktop\учеба\2 курс\прога\14_Marchenko\x64\Debug\Test_DeleteComments.lib and object C:\Users\EGLOBAL\Desktop\учеба\2 курс\прога\14_Marchenko\x64\Debug\Test_DeleteComments.exp
+Test_DeleteComments.obj : error LNK2019: unresolved external symbol "void __cdecl DeleteComments(char (* const)[81])" (?DeleteComments@@YAXQEAY0FB@D@Z) referenced in function "public: void __cdecl TestDeleteComments::TestDeleteComments::ComplexTest(void)" (?ComplexTest@TestDeleteComments@1@QEAAXXZ)
+C:\Users\EGLOBAL\Desktop\учеба\2 курс\прога\14_Marchenko\x64\Debug\Test_DeleteComments.dll : fatal error LNK1120: 1 unresolved externals

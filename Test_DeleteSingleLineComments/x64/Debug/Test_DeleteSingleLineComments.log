@@ -1,0 +1,4 @@
+﻿  Test_DeleteSingleLineComments.cpp
+     Creating library C:\Users\EGLOBAL\Desktop\учеба\2 курс\прога\14_Marchenko\x64\Debug\Test_DeleteSingleLineComments.lib and object C:\Users\EGLOBAL\Desktop\учеба\2 курс\прога\14_Marchenko\x64\Debug\Test_DeleteSingleLineComments.exp
+Test_DeleteSingleLineComments.obj : error LNK2019: unresolved external symbol "void __cdecl DeleteSingleLineComments(char (* const)[81])" (?DeleteSingleLineComments@@YAXQEAY0FB@D@Z) referenced in function "public: void __cdecl TestDeleteSingleLineComments::TestDeleteSingleLineComments::AllStringsAreComments(void)" (?AllStringsAreComments@TestDeleteSingleLineComments@1@QEAAXXZ)
+C:\Users\EGLOBAL\Desktop\учеба\2 курс\прога\14_Marchenko\x64\Debug\Test_DeleteSingleLineComments.dll : fatal error LNK1120: 1 unresolved externals

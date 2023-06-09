@@ -1,0 +1,4 @@
+﻿  Test_FindLongComment.cpp
+     Creating library C:\Users\EGLOBAL\Desktop\учеба\2 курс\прога\14_Marchenko\x64\Debug\Test_FindLongComment.lib and object C:\Users\EGLOBAL\Desktop\учеба\2 курс\прога\14_Marchenko\x64\Debug\Test_FindLongComment.exp
+Test_FindLongComment.obj : error LNK2019: unresolved external symbol "int __cdecl FindLongComment(char (* const)[81],char * *,int *,char * *,int *)" (?FindLongComment@@YAHQEAY0FB@DPEAPEADPEAH12@Z) referenced in function "public: void __cdecl TestFindLongComment::TestFindLongComment::OneLongCommentInSeveralStrings(void)" (?OneLongCommentInSeveralStrings@TestFindLongComment@1@QEAAXXZ)
+C:\Users\EGLOBAL\Desktop\учеба\2 курс\прога\14_Marchenko\x64\Debug\Test_FindLongComment.dll : fatal error LNK1120: 1 unresolved externals

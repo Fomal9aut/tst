@@ -1,0 +1,4 @@
+﻿  Test_DeleteLongComments.cpp
+     Creating library C:\Users\EGLOBAL\Desktop\учеба\2 курс\прога\14_Marchenko\x64\Debug\Test_DeleteLongComments.lib and object C:\Users\EGLOBAL\Desktop\учеба\2 курс\прога\14_Marchenko\x64\Debug\Test_DeleteLongComments.exp
+Test_DeleteLongComments.obj : error LNK2019: unresolved external symbol "int __cdecl DeleteLongComments(char (* const)[81])" (?DeleteLongComments@@YAHQEAY0FB@D@Z) referenced in function "public: void __cdecl TestDeleteLongComments::TestDeleteLongComments::AllStringAreLongComments(void)" (?AllStringAreLongComments@TestDeleteLongComments@1@QEAAXXZ)
+C:\Users\EGLOBAL\Desktop\учеба\2 курс\прога\14_Marchenko\x64\Debug\Test_DeleteLongComments.dll : fatal error LNK1120: 1 unresolved externals

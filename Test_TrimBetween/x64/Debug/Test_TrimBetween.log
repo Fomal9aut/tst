@@ -1,0 +1,4 @@
+﻿  Test_TrimBetween.cpp
+     Creating library C:\Users\EGLOBAL\Desktop\учеба\2 курс\прога\14_Marchenko\x64\Debug\Test_TrimBetween.lib and object C:\Users\EGLOBAL\Desktop\учеба\2 курс\прога\14_Marchenko\x64\Debug\Test_TrimBetween.exp
+Test_TrimBetween.obj : error LNK2019: unresolved external symbol "void __cdecl TrimBetween(char *,char *)" (?TrimBetween@@YAXPEAD0@Z) referenced in function "public: void __cdecl TestTrimBetween::TestTrimBetween::MultiLineCommentEmbeddedinMultiLineComment(void)" (?MultiLineCommentEmbeddedinMultiLineComment@TestTrimBetween@1@QEAAXXZ)
+C:\Users\EGLOBAL\Desktop\учеба\2 курс\прога\14_Marchenko\x64\Debug\Test_TrimBetween.dll : fatal error LNK1120: 1 unresolved externals

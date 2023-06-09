@@ -1,0 +1,7 @@
+6
+int main( /*first*/)
+{// /*second
+int a = 5;
+int b;// comment*/
+/*long*/return 0;//third
+/*//*/}

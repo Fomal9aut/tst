@@ -1,0 +1,4 @@
+﻿  Test_DeleteEmptyStrings.cpp
+     Creating library C:\Users\EGLOBAL\Desktop\учеба\2 курс\прога\14_Marchenko\x64\Debug\Test_DeleteEmptyStrings.lib and object C:\Users\EGLOBAL\Desktop\учеба\2 курс\прога\14_Marchenko\x64\Debug\Test_DeleteEmptyStrings.exp
+Test_DeleteEmptyStrings.obj : error LNK2019: unresolved external symbol "void __cdecl DeleteEmptyStrings(char (* const)[81])" (?DeleteEmptyStrings@@YAXQEAY0FB@D@Z) referenced in function "public: void __cdecl TestDeleteEmptyStrings::TestDeleteEmptyStrings::EmptySpaceInAString(void)" (?EmptySpaceInAString@TestDeleteEmptyStrings@1@QEAAXXZ)
+C:\Users\EGLOBAL\Desktop\учеба\2 курс\прога\14_Marchenko\x64\Debug\Test_DeleteEmptyStrings.dll : fatal error LNK1120: 1 unresolved externals

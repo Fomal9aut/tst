@@ -1,0 +1,20 @@
+include dir
+$(SolutionDir)14_Marchenko
+
+Linker->General->Add Lib Dir
+$(SolutionDir)14_Marchenko\Debug
+
+Linker->Input->Add Dependancies
+14_Marchenko.obj
+
+
+	int/*afadsfda*/ main()/*  adsfdaf*/ /*adf
+		//asdfa*/sdfasdfdas
+		{/*third comment*/
+		//fsgsdfgsfdg
+		//sfgsf///dg/*-----sdfg
+		//sdf//gsdfgsdf*/g
+		/*sdfafasd//asfasd*/
+		m/**/
+		return 0;//gfsgdsfdgsfgdsfgfsdg
+		}

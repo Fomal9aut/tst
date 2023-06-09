@@ -1,0 +1,29 @@
+ 
+0 строк
+Enter the number of strings: invalid input data
+ 
+ 21 строка
+Enter the number of strings: invalid input data
+ 
+универсальный тест
+Enter the number of strings: Enter text program: 
+int main( )
+{
+int a = 5;
+int b;
+return 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
